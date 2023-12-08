@@ -1,0 +1,24 @@
+C:\Users\asmaa\Desktop\.net track\Linq\linq2\linq2\bin\Debug\net6.0\linq2.exe
+C:\Users\asmaa\Desktop\.net track\Linq\linq2\linq2\bin\Debug\net6.0\linq2.deps.json
+C:\Users\asmaa\Desktop\.net track\Linq\linq2\linq2\bin\Debug\net6.0\linq2.runtimeconfig.json
+C:\Users\asmaa\Desktop\.net track\Linq\linq2\linq2\bin\Debug\net6.0\linq2.dll
+C:\Users\asmaa\Desktop\.net track\Linq\linq2\linq2\bin\Debug\net6.0\linq2.pdb
+C:\Users\asmaa\Desktop\.net track\Linq\linq2\linq2\obj\Debug\net6.0\linq2.csproj.AssemblyReference.cache
+C:\Users\asmaa\Desktop\.net track\Linq\linq2\linq2\obj\Debug\net6.0\linq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmaa\Desktop\.net track\Linq\linq2\linq2\obj\Debug\net6.0\linq2.AssemblyInfoInputs.cache
+C:\Users\asmaa\Desktop\.net track\Linq\linq2\linq2\obj\Debug\net6.0\linq2.AssemblyInfo.cs
+C:\Users\asmaa\Desktop\.net track\Linq\linq2\linq2\obj\Debug\net6.0\linq2.csproj.CoreCompileInputs.cache
+C:\Users\asmaa\Desktop\.net track\Linq\linq2\linq2\obj\Debug\net6.0\linq2.dll
+C:\Users\asmaa\Desktop\.net track\Linq\linq2\linq2\obj\Debug\net6.0\refint\linq2.dll
+C:\Users\asmaa\Desktop\.net track\Linq\linq2\linq2\obj\Debug\net6.0\linq2.pdb
+C:\Users\asmaa\Desktop\.net track\Linq\linq2\linq2\obj\Debug\net6.0\linq2.genruntimeconfig.cache
+C:\Users\asmaa\Desktop\.net track\Linq\linq2\linq2\obj\Debug\net6.0\ref\linq2.dll
+C:\Users\asmaa\Desktop\.net track\Linq\linq2 sorting\linq2\bin\Debug\net6.0\linq2.exe
+C:\Users\asmaa\Desktop\.net track\Linq\linq2 sorting\linq2\obj\Debug\net6.0\linq2.csproj.AssemblyReference.cache
+C:\Users\asmaa\Desktop\.net track\Linq\linq2 sorting\linq2\obj\Debug\net6.0\linq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmaa\Desktop\.net track\Linq\linq2 sorting\linq2\obj\Debug\net6.0\linq2.AssemblyInfoInputs.cache
+C:\Users\asmaa\Desktop\.net track\Linq\linq2 sorting\linq2\obj\Debug\net6.0\linq2.AssemblyInfo.cs
+C:\Users\asmaa\Desktop\.net track\Linq\linq2 sorting\linq2\obj\Debug\net6.0\linq2.csproj.CoreCompileInputs.cache
+C:\Users\asmaa\Desktop\.net track\Linq\linq2 sorting\linq2\obj\Debug\net6.0\linq2.dll
+C:\Users\asmaa\Desktop\.net track\Linq\linq2 sorting\linq2\obj\Debug\net6.0\refint\linq2.dll
+C:\Users\asmaa\Desktop\.net track\Linq\linq2 sorting\linq2\obj\Debug\net6.0\linq2.pdb
